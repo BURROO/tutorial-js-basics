@@ -27,10 +27,11 @@ pull this repository:
 5. in the terminal; to make sure you are in the right directory type ```$ ls```, it sould be empty
 6. ln the terminal now type: ```$ git  clone https://github.com/BURROO/tutorial-js-basics.git```
 
+The Tutorials don't have a step by step guide and are intended to be supervised.
 
 # Javascript CheatSheet
 
-## Comments
+## Comment
 
 ```
 // double slash start a single line comment;
@@ -46,7 +47,7 @@ pull this repository:
 */
 ```
 
-## Strings
+## String
 Wrapped in double quotes or single quotes
 
 ```
