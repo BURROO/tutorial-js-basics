@@ -1,10 +1,15 @@
 # Tutorial Javascript Basics
 
-// Types in Javascript
+Types in Javascript
 
+
+## Comments
+
+```
 // double slash start a single line comment;
 // it will not be interpreted by the computer
-
+```
+```
 /*
   this is a multi line comment:
 
@@ -12,6 +17,7 @@
   Think of a Variable of a container storing things.
   A Variable can be overwriten
 */
+```
 
 ## Type: string _ Wrapped in double quotes or single quotes
 
