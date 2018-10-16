@@ -1,20 +1,34 @@
 # Javascript Basics
 
-This guide is intended for beginners in Javascript that open a code editor for the first time and for the sake of simplicity might lack of 100% accuracy and complete.
+This guide is intended for beginners in any programming language and for the sake of simplicity might lack of 100% accuracy.
+It focuses on basic grasp of the language and being able to do some manipulation with the DOM and understanding basic concepts.
 
-For Javascript References Check
+### For Javascript References Check
 
 Detailed List and Mini Tutorials for basic to advanced Javascript
 
-https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/js/default.asp  If you can't find a solution online
 
-If you can't find a solution online
+https://stackoverflow.com  If you can't find a Solution to a problem, people are eager to help you out here
 
-https://stackoverflow.com
+https://caniuse.com/  Check if you can / should use a feature (Browser Support)
 
-Check if you can / should use (Browser Compability)
+https://codecademy.com/  Basic and Free Javascript Tutorials in the Browserwindow
 
-https://caniuse.com/
+
+### Getting started
+
+pull this repository:
+
+1. Open your Terminal
+2. Type: ```$ cd ```, don't type the ```$``` it is just indicating that you have to enter the code in the terminal 
+3. drag and drop the folder symbol of your prefered location from finder into the terminal window
+4. now hit enter
+5. in the terminal; to make sure you are in the right directory type ```$ ls```, it sould be empty
+6. ln the terminal now type: ```$ git  clone https://github.com/BURROO/tutorial-js-basics.git```
+
+
+# Javascript CheatSheet
 
 ## Comments
 
@@ -331,7 +345,7 @@ element.classList.add('red');
 element.classList.remove('red');
 ``` 
 
-## Click, Mousevoer, etc. – Event Listener
+## Event Listener – Click, Mouseover, Scroll, etc.
 
 we want to change the color of the element on Click
 
